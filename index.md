@@ -8,7 +8,7 @@ Following the successfull 2020 Edition of Meet-EU, we are renewing the experienc
 *********
 ## Topic
 
-Similar to the 2020 edition, the topic of this years edition will be on the prediction of chromatin structure (topological associated domains and chromatin compartments) from Hi-C data. Data integration will play an important role
+Similar to the 2020 edition, the topic of this years edition will be on the prediction of chromatin structure (topological associated domains and chromatin compartments) from Hi-C data. Data integration will play an important role, as additional datasets will be provided.
 
 *********
 ## Organisation
