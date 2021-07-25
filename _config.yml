@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minimal
 markdown: GFM
 title: Meet-EU 2021
 description: <h3>Introduction to R for genomics</h3>  <figure><img src="./logo.png"></figure>
