@@ -14,7 +14,7 @@ Similar to the 2020 edition, the topic of this years edition will be on the pred
 ## Organisation
 
 * The kick-off presentation for all teams will be in early October 2021
-* The mid-term presentations will take place on **December, 16th**
+* The mid-term presentations will take place on **December, 17th**
 * The one-day final workshop will take place in **Heidelberg** in **late January or early February 2022**. As last year, keynote speakers will give lectures and contribute to evaluate the student projects.
 * Lectures will be over **Zoom** (we will send the link via email prior to the course)
 
