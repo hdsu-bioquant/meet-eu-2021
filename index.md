@@ -12,11 +12,11 @@ Similar to the 2020 edition, the topic of this years edition will be on the **pr
 
 There are two sub-projects:
 
-### Prediction of topological associated domains (TADs) based on the Hi-C data
+#### 1. Prediction of topological associated domains (TADs) based on the Hi-C data
 
 Possible questions could be how important TADs are for gene expression? Are they related to other chromosomal organisation structures? Can we define a classification of TADs? What are the epigenetic marks that can help in that task? How do the parameters influence the detection?
 
-### Prediction of compartments that represent active or repressed states of chromatin
+#### 2. Prediction of compartments that represent active or repressed states of chromatin
 
 The classical resolution for detecting compartments is 100 kb. What if we increase that resolution? Can we extract more meaningful information? Can we detect the compartments based on inter-chromosomal contacts (instead of intra)? What are the biological implications? Can we define more than two compartments? What kind of epigenetic markers can help us determine a meaningful number and meaningful boundaries?
 
