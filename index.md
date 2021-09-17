@@ -33,8 +33,8 @@ The classical resolution for detecting compartments is 100 kb. What if we increa
 *********
 ## Important dates
 
-* The kick-off presentation for all teams will be in early October 2021
-* The mid-term presentations will take place on **December, 17th**
-* The one-day final workshop will take place in **Heidelberg** in **late January or early February 2022**. As last year, keynote speakers will give lectures and contribute to evaluate the student projects.
+* The **kick-off presentation** for all teams will take place online on **Tuesday, October 12th at 2pm** *(link will be sent)*
+* The **mid-term presentations** will take place on **December, 17th**
+* The **one-day final workshop** will take place in **Heidelberg** in **late January or early February 2022**. As last year, keynote speakers will give lectures and contribute to evaluate the student projects.
 * Lectures will be over **Zoom** (we will send the link via email prior to the course)
 
