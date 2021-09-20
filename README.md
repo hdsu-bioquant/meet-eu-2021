@@ -18,45 +18,45 @@ Half-way forum -- https://youtu.be/zvcf7v8Bdas
 
 # Tasks and definitions 
 - **TAD TEAM goal**: create an algoritm for TAD detection with the best precision you can reach.
-Implement a solution like Topdom, or Arrowhead (link to the paper on github, have an eye on it!!)
+Implement a solution like Topdom, or Arrowhead (link to the paper on github, have a look at it!!)
 Optimise it to only find high-quality TADs.
 
-This challenge is a challenge of optimisation of the algorithm, the goal is to find some idea(s) and develop a critical mind about the parameters in an algorithm. You will be evaluated in how you consider that one TAD has been correctly detected.
+This challenge deals with optimisation and quality assessment. The goal is to find some idea(s) and develop a critical mind about the parameters in an algorithm. You will be evaluated in how you consider that one TAD has been correctly detected.
 
 Some good ways to solve it :  
     - Find only domains containing CTCF at their borders.  
     - Implement 2 or 3 algorithms and compare their ouputs with the best parameters.  
-    - Design an evaluation strategy to validate the outputs of the algorithms
+    - Design an evaluation strategy to validate the outputs of the algorithms.
 
 
 - **CPT TEAM goal**: Detect chromatin compartments the best way you can.
 
 
 Defining two compartments is really easy and we give you most of the bricks to do this 'take in hand' task :  
-    -Load HiC matrix and epigenomic feature  
-    -Apply filtering, SCN, Observed under expected and then pearson correlation to HiC (see the slides!!)  
-    -Extract the firt eigen vector on the pearson correlation matrix  
-    -Orderate it by the epigenomic feature at the same resolution  
+    - Load HiC matrix and epigenomic feature  
+    - Apply filtering, SCN, Observed under expected and then pearson correlation to HiC (see the slides!!)  
+    - Extract the firt eigen vector on the pearson correlation matrix  
+    - Orderate it by the epigenomic feature at the same resolution  
     
-    DONE (all function to do it are given.. almost)
+    DONE (all functions to do it are given.. almost)
     
     
 Then, you have to improve it with one of this possible roads (sorted by difficulty, but you have to choose one!):  
-    - Compare existing solution to detect compartment, using inter chromosomal contacts on intra chromosomal contacts -- what is the best?  
-    - Increase the number of compartments (train hidden markov model) and define for you what the best number of compartments is  
-    - Increase the resolution -- is the information still correct? Answer to this question
+    - Compare existing solutions to detect compartments, using inter-chromosomal contacts on intra-chromosomal contacts -- what is the best?  
+    - Increase the number of compartments (train hidden markov model for instance) and define for you what the best number of compartments is  
+    - Increase the resolution -- is the information still correct? 
     
 
-The final product should provide a set of TADs and a set of compartments. We strongly encourage you to visualise your results in 2D or 3D (see the provided examples). 
+The final product should give as output a set of TADs or a set of compartments. We strongly encourage you to visualise your results in 2D or 3D (see the provided examples). 
 
 # Input and validation data 
-We provide you with three types of input data, all here : http://www.lcqb.upmc.fr/meetu/
+We provide you with three types of input data, all available here : http://www.lcqb.upmc.fr/meetu/
 
 - Hi-C matrices, taken from ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63525/suppl/. These are the basic input data that your algorithm should treat. They give observed contacts between chromatin regions. Each matrix corresponds to one or several chromosome(s) from a given organism, studied in a particular experimental condition.
 
 - Annotations from the ChromHMM tool for GM12878 (most documented human cell type), which can be found here: https://egg2.wustl.edu/roadmap/data/byFileType/chromhmmSegmentations/ChmmModels/coreMarks/jointModel/final/E116_15_coreMarks_stateno.bed.gz. These annotations provide information about epigenetic marks. These marks are indicators of the state of the chromatin and thus can help you determine the optimal number of **compartments** and detect them.
 
-To validate your program, we provide you with gold-standard definitions of the TADs and the compartments. These can be found in http://www.lcqb.upmc.fr/meetu/
+To validate your program, we can rely on gold-standard definitions of the TADs and the compartments. These can be found in http://www.lcqb.upmc.fr/meetu/
 
 # Hictoolbox 
 Contains some useful functions that you might need in your code: how to load a matrix, filter a matrix in the easiest way, how to change the resolution, and how to normalise a matrix with SCN (Cournac & al). The functions are all written for **scipy** sparse matrix.
