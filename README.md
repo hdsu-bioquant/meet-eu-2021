@@ -32,11 +32,11 @@ Some good ways to solve it :
 - **CPT TEAM goal**: Detect chromatin compartments the best way you can.
 
 
-Defining two compartments is really easy and we give you most of the bricks to do this 'take in hand' task :
-    -Load HiC matrix and epigenomic feature
-    -Apply filtering, SCN, Observed under expected and then pearson correlation to HiC (see the slides!!)
-    -Extract the firt eigen vector on the pearson correlation matrix
-    -Orderate it by the epigenomic feature at the same resolution
+Defining two compartments is really easy and we give you most of the bricks to do this 'take in hand' task :  
+    -Load HiC matrix and epigenomic feature  
+    -Apply filtering, SCN, Observed under expected and then pearson correlation to HiC (see the slides!!)  
+    -Extract the firt eigen vector on the pearson correlation matrix  
+    -Orderate it by the epigenomic feature at the same resolution  
     
     DONE (all function to do it are given.. almost)
     
