@@ -1,22 +1,21 @@
-# 2021---2022
+# Meet-EU Session 2021-2022
 
-**Description of the project specifics (for the teachers):**   https://docs.google.com/document/d/1UfugMVAMy_YdhosHKuZ0v9oKOideTGDI5eKdwWZIUK4/edit
+## Important links
 
-**Discord link:**  
-TODO
+* [Main website](https://hdsu-bioquant.github.io/meet-eu-2021/)
+* [Description of the project specifics (for the teachers)](https://docs.google.com/document/d/1UfugMVAMy_YdhosHKuZ0v9oKOideTGDI5eKdwWZIUK4/edit)
+* Discord link: TODO
+* [Sheet to fill up for group definition and pairing](https://docs.google.com/spreadsheets/d/1Rn3PVAmTvKFZmIiuem7xGvYscvawnPb4Q-Dd7TjSo0E/edit?usp=sharing)
+* Videos of 2020 year:
 
-**Sheet to fill up for group definition and pairing:**  
-https://docs.google.com/spreadsheets/d/1Rn3PVAmTvKFZmIiuem7xGvYscvawnPb4Q-Dd7TjSo0E/edit?usp=sharing
-
-**Videos of 2020 year:**  
-Opening -- https://youtu.be/-x5gzjqB6ms  
-Practical -- https://youtu.be/y5omyj-5X3o  
-Half-way forum -- https://youtu.be/zvcf7v8Bdas
+    * Opening -- https://youtu.be/-x5gzjqB6ms  
+    * Practical -- https://youtu.be/y5omyj-5X3o  
+    * Half-way forum -- https://youtu.be/zvcf7v8Bdas
 
 
-**Videos of 2021 year:**  
 
-# Tasks and definitions 
+## Tasks and definitions 
+
 - **TAD TEAM goal**: create an algoritm for TAD detection with the best precision you can reach.
 Implement a solution like Topdom, or Arrowhead (link to the paper on github, have a look at it!!)
 Optimise it to only find high-quality TADs.
@@ -49,7 +48,8 @@ Then, you have to improve it with one of this possible roads (sorted by difficul
 
 The final product should give as output a set of TADs or a set of compartments. We strongly encourage you to visualise your results in 2D or 3D (see the provided examples). 
 
-# Input and validation data 
+## Input and validation data 
+
 We provide you with three types of input data, all available here : http://www.lcqb.upmc.fr/meetu/
 
 - Hi-C matrices, taken from ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63525/suppl/. These are the basic input data that your algorithm should treat. They give observed contacts between chromatin regions. Each matrix corresponds to one or several chromosome(s) from a given organism, studied in a particular experimental condition.
@@ -58,16 +58,16 @@ We provide you with three types of input data, all available here : http://www.
 
 To validate your program, we can rely on gold-standard definitions of the TADs and the compartments. These can be found in http://www.lcqb.upmc.fr/meetu/
 
-# Hictoolbox 
+## Hictoolbox 
 Contains some useful functions that you might need in your code: how to load a matrix, filter a matrix in the easiest way, how to change the resolution, and how to normalise a matrix with SCN (Cournac & al). The functions are all written for **scipy** sparse matrix.
 
 If you find some bug or have some suggestions of improvement, feel free to create an issue :)
 
 This toolbox does not contain more than: https://gitlab.com/LeopoldC/shrec3d.
 
-# Papers you can't avoid to read
+## Papers you can't avoid to read
 
-## Introductory texts to understand the context and the basic notions  
+### Introductory texts to understand the context and the basic notions  
 We wrote two instructive (or made for you) articles, in French and in English. These are improved versions of the introductory lecture!  
 - French versions: https://bioinfo-fr.net/author/mathurin. You must read the last article on TADs and compartments.  
 - English version: https://docs.google.com/document/d/1Y8JeQGIkyTmOuSCtA2XfDUNiC4fDy8pKe67o8IEIKRA/edit?usp=sharing
@@ -81,7 +81,7 @@ We also provide below a list of papers relevant to the project. They are sorted 
 - This paper, from Rao et al., gives basic concepts for all teams: https://www.cell.com/cell/fulltext/S0092-8674(14)01497-4. You should particularly look at the supplementary material. It contains methods for TAD detection AND compartment detection.
 
 
-## TO READ for TAD teams
+### TO READ for TAD teams
 
 Basic review of state-of-the-art methods : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389712/.
 
@@ -99,7 +99,7 @@ Sounds interesting but not essential : https://www.nature.com/articles/s41586-02
 
 This one might be of interest if you want to play with CTCF : https://twitter.com/colinlog/status/1295112780861800448
 
-## TO READ for CPT teams
+### TO READ for CPT teams
 
 Like all teams, again, read the Rao paper : https://www.cell.com/cell/fulltext/S0092-8674(14)01497-4
 
