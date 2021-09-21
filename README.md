@@ -52,13 +52,13 @@ The final product should give as output a set of TADs or a set of compartments. 
 
 ## Input and validation data 
 
-We provide you with three types of input data, all available here : http://www.lcqb.upmc.fr/meetu/
+We provide you with three types of input data, all available [here](http://www.lcqb.upmc.fr/meetu/)
 
-- Hi-C matrices, taken from ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63525/suppl/. These are the basic input data that your algorithm should treat. They give observed contacts between chromatin regions. Each matrix corresponds to one or several chromosome(s) from a given organism, studied in a particular experimental condition.
+- Hi-C matrices, taken from [this repository](ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE63nnn/GSE63525/suppl). These are the basic input data that your algorithm should treat. They give observed contacts between chromatin regions. Each matrix corresponds to one or several chromosome(s) from a given organism, studied in a particular experimental condition.
 
-- Annotations from the ChromHMM tool for GM12878 (most documented human cell type), which can be found here: https://egg2.wustl.edu/roadmap/data/byFileType/chromhmmSegmentations/ChmmModels/coreMarks/jointModel/final/E116_15_coreMarks_stateno.bed.gz. These annotations provide information about epigenetic marks. These marks are indicators of the state of the chromatin and thus can help you determine the optimal number of **compartments** and detect them.
+- Annotations from the ChromHMM tool for GM12878 (most documented human cell type), which can be found [here](https://egg2.wustl.edu/roadmap/data/byFileType/chromhmmSegmentations/ChmmModels/coreMarks/jointModel/final/E116_15_coreMarks_stateno.bed.gz). These annotations provide information about epigenetic marks. These marks are indicators of the state of the chromatin and thus can help you determine the optimal number of **compartments** and detect them.
 
-To validate your program, we can rely on gold-standard definitions of the TADs and the compartments. These can be found in http://www.lcqb.upmc.fr/meetu/
+To validate your program, we can rely on gold-standard definitions of the TADs and the compartments. These can be found in the [data repository](http://www.lcqb.upmc.fr/meetu/).
 
 ## Hictoolbox 
 Contains some useful functions that you might need in your code: how to load a matrix, filter a matrix in the easiest way, how to change the resolution, and how to normalise a matrix with SCN (Cournac & al). The functions are all written for **scipy** sparse matrix.
@@ -83,7 +83,7 @@ We also provide below a list of papers relevant to the project. They are sorted 
 - This paper, from Rao et al., gives basic concepts for all teams: https://www.cell.com/cell/fulltext/S0092-8674(14)01497-4. You should particularly look at the supplementary material. It contains methods for TAD detection AND compartment detection.
 
 
-### TO READ for TAD teams
+### MUST-READ for TAD teams
 
 Basic review of state-of-the-art methods : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389712/.
 
@@ -101,7 +101,7 @@ Sounds interesting but not essential : https://www.nature.com/articles/s41586-02
 
 This one might be of interest if you want to play with CTCF : https://twitter.com/colinlog/status/1295112780861800448
 
-### TO READ for CPT teams
+### MUST-READ for CPT teams
 
 Like all teams, again, read the Rao paper : https://www.cell.com/cell/fulltext/S0092-8674(14)01497-4
 
