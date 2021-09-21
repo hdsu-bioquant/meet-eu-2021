@@ -16,7 +16,7 @@
 
 ## Tasks and definitions 
 
-### TAD TEAM goal: create an algoritm for TAD detection with the best precision you can reach.
+### 1. TAD TEAM goal: create an algoritm for TAD detection with the best precision you can reach.
 Implement a solution like Topdom, or Arrowhead (link to the paper on github, have a look at it!!)
 Optimise it to only find high-quality TADs.
 
@@ -28,7 +28,7 @@ Some good ways to solve it :
     - Design an evaluation strategy to validate the outputs of the algorithms.
 
 
-### CPT TEAM goal: Detect chromatin compartments the best way you can.
+### 2. CPT TEAM goal: Detect chromatin compartments the best way you can.
 
 Defining two compartments is really easy and we give you most of the bricks to do this 'take in hand' task :  
     - Load HiC matrix and epigenomic feature  
