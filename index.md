@@ -4,6 +4,12 @@
 
 Following the successfull 2020 Edition of Meet-EU, we are renewing the experience in 2021/2022, with the contribution of student teams from Heidelberg, Milano, Paris, Prag and Warsaw.
 
+**Contacts**
+
+* Alessandra Carbone (Paris Sorbonne)
+* Leopold Carron (Paris Sorbonne)
+* Elodie Laine (Paris Sorbonne
+* Carl Herrmann (Heidelberg University)
 
 *********
 ## Topic
