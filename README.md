@@ -4,7 +4,7 @@
 
 * [Main website](https://hdsu-bioquant.github.io/meet-eu-2021/)
 * [Description of the project specifics (for the teachers)](https://docs.google.com/document/d/1UfugMVAMy_YdhosHKuZ0v9oKOideTGDI5eKdwWZIUK4/edit)
-* [Discord link](https://discord.gg/3zM2h3Ra)
+* [Discord link](https://discord.gg/kscA9FfUru)
 * [Sheet to fill up for group definition and pairing](https://docs.google.com/spreadsheets/d/1Rn3PVAmTvKFZmIiuem7xGvYscvawnPb4Q-Dd7TjSo0E/edit?usp=sharing)
 * Videos of 2020 year:
 
