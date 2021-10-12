@@ -44,3 +44,10 @@ The classical resolution for detecting compartments is 100 kb. What if we increa
 * The **one-day final workshop** will take place in **Heidelberg** on **February, 4th** . As last year, keynote speakers will give lectures and contribute to evaluate the student projects.
 * Lectures will be over **Zoom** (we will send the link via email prior to the course)
 
+
+*********
+## 4EU+ shared courses
+
+Students have the possibility to choose a shared course offered by one of the universities of the alliance. You can check the
+list of courses offered by each university [on this website](https://4euplus.eu/4EU-239.html).
+
