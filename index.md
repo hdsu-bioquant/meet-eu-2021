@@ -26,7 +26,8 @@ Possible questions could be how important TADs are for gene expression? Are they
 
 The classical resolution for detecting compartments is 100 kb. What if we increase that resolution? Can we extract more meaningful information? Can we detect the compartments based on inter-chromosomal contacts (instead of intra)? What are the biological implications? Can we define more than two compartments? What kind of epigenetic markers can help us determine a meaningful number and meaningful boundaries?
 
-[Link to the page with further details](https://github.com/hdsu-bioquant/meet-eu-2021)
+* [Link to the page with further details](https://github.com/hdsu-bioquant/meet-eu-2021)
+* [Link to the recording of the kickoff meeting 12.10.2021](https://youtu.be/z2x3Lfj5iPc)
 
 *********
 ## Organisational principles
