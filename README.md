@@ -6,6 +6,7 @@
 * [Description of the project specifics (for the teachers)](https://docs.google.com/document/d/1UfugMVAMy_YdhosHKuZ0v9oKOideTGDI5eKdwWZIUK4/edit)
 * [Discord link](https://discord.gg/kscA9FfUru)
 * [Sheet to fill up for group definition and pairing](https://docs.google.com/spreadsheets/d/1Rn3PVAmTvKFZmIiuem7xGvYscvawnPb4Q-Dd7TjSo0E/edit?usp=sharing)
+* [Slides of the opening session](http://www.lcqb.upmc.fr/meetu/dataforstudent/slides/opening2022.pdf)
 * Videos of 2020 year:
 
     * Opening -- https://youtu.be/-x5gzjqB6ms  
