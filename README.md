@@ -36,13 +36,13 @@ Defining two compartments is really easy and we give you most of the bricks to d
 
 - Load HiC matrix and epigenomic feature  
 - Apply filtering, SCN, Observed under expected and then pearson correlation to HiC (see the slides!!)  
-- Extract the firt eigen vector on the pearson correlation matrix  
-- Orderate it by the epigenomic feature at the same resolution  
+- Extract the first eigenvector on the pearson correlation matrix  
+- Order it by the epigenomic feature at the same resolution  
     
 DONE (all functions to do it are given.. almost)
     
     
-Then, you have to improve it with one of this possible roads (sorted by difficulty, but you have to choose one!):  
+Then, you have to improve it with one of this possible options (sorted by difficulty, but you have to choose one!):  
 
 - Compare existing solutions to detect compartments, using inter-chromosomal contacts on intra-chromosomal contacts -- what is the best?  
 - Increase the number of compartments (train hidden markov model for instance) and define for you what the best number of compartments is  
