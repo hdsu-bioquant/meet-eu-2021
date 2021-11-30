@@ -13,7 +13,7 @@ Following the successfull 2020 Edition of Meet-EU, we are renewing the experienc
 
 
 *********
-## News
+## +++ News +++
 
 * 30/11/2021: please check the instructions for the **half-way forum on December 17th** [here](./midterm.md)
 

@@ -1,10 +1,14 @@
 ## Organisation of the half-way forum 
 
-### when? 12/17/2021, starting at 2 pm
+### When? 
 
-### where? Zoom meeting 
+Friday, 12/17/2021, starting at 2 pm
 
-### Schedule:
+### Where? 
+
+Zoom meeting, link will be provided
+
+### Schedule?
 
 * 2 - 3 pm: presentations of the projects, CPT teams first, TAD teams second
 * 3 - 3.15 pm: definition of the pairings
@@ -13,7 +17,7 @@
 
 ### How? 
 
-Each team will have **5 minutes** to show **3 slides**: 
+Each team will have **3 minutes** to show **3 slides**: 
 
 1. outline of the method
 2. preliminary results
@@ -23,11 +27,11 @@ We (the teachers) will ask questions (2 minutes). You can see it as a rehearsal 
 
 ### And after? 
 
-We will randomize team pairing, with the constraints that the 2 teams in each pair must: (1) come from different universities, (2) address the same task. Your repo will be open to everyone.
+After the half-way forum, we will define **pairs of teams**. We will randomize team pairing, with the constraints that the 2 teams in each pair must: (1) come from different universities, (2) address the same task. Your repo will be open to everyone.
 
-### To do? 
+### What to do next? 
 
-Each team will have to evaluate the results of its partner in the pair. This implies defining metrics to compare predictions versus gold standard and to compare two sets of predictions. The metrics can be taken from the literature or "invented". The choice of metrics should be well motivated. The evaluation should be performed on results computed from several input data (several resolutions, several chromosomes..) and not just on "toy" data used for the development of the tool. 
+Each team will have to **evaluate the results of its partner in the pair**. This implies defining metrics to compare predictions versus gold standard and to compare two sets of predictions. The metrics can be taken from the literature or "invented". The choice of metrics should be well motivated. The evaluation should be performed on results computed from several input data (several resolutions, several chromosomes..) and not just on "toy" data used for the development of the tool. 
 
 We expect you to show a quantitative (and possibly qualitative) assessment of the results and to conduct a critical analysis. You can for example choose 2 metrics and discuss their respective advantages and drawbacks.
 
