@@ -8,7 +8,8 @@ Following the successfull 2020 Edition of Meet-EU, we are renewing the experienc
 
 * Alessandra Carbone (Paris Sorbonne)
 * Leopold Carron (Paris Sorbonne)
-* Elodie Laine (Paris Sorbonne
+* Elodie Laine (Paris Sorbonne)
+* Magdalena Machnicka (Warsaw University)
 * Carl Herrmann (Heidelberg University)
 
 
