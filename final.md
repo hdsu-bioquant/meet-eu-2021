@@ -14,7 +14,7 @@ Can we define more than two compartments? Can we define a classification of TADs
 **Expected product:** Each team is in charge of one of the two tasks, either compartment detection or TAD detection. 
 The teams pair up halfway through the project and have to critically assess the results of their partner team.
 
-**Jury members:** [A. Papantonis](https://www.uni-goettingen.de/en/595200.html) (University Göttingen), [A. Cournac](https://research.pasteur.fr/en/member/axel-cournac/)
+**Jury members and keynote speakers:** [A. Papantonis](https://www.uni-goettingen.de/en/595200.html) (University Göttingen), [A. Cournac](https://research.pasteur.fr/en/member/axel-cournac/)
 (Institut Pasteur, Paris), [B. Bonev](https://www.bonevlab.com/) (Ludwig-Maximilians-University, Munic), 
 [T. Sexton](https://www.igbmc.fr/equipes/organisation-spatiale-du-genome) (IGBMC, Strasbourg).
 
