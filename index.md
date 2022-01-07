@@ -16,7 +16,7 @@ Following the successfull 2020 Edition of Meet-EU, we are renewing the experienc
 *********
 ## +++ News +++
 
-* 7/01/2022: check the instructions for the **final meeting on February 4th, 2022** [here](./final_instructions.pdf). The final program is currently being finalized and will be published soon.
+* 7/01/2022: check the instructions for the **final meeting on February 4th, 2022** [here](./final_instructions.pdf). The [final program](./final.html) will be published soon.
 * 30/11/2021: please check the instructions for the **half-way forum on December 17th** [here](./midterm.md)
 
 *********
