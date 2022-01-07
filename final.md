@@ -1,11 +1,6 @@
-**Meet-EU** is a collaborative course between the universities of the [4EU+ alliance](https://www.uni-heidelberg.de/en/international-affairs/4eu-european-university-alliance). 
-For the 2021/2022 edition, about 40 students from Charles University Prag, Heidelberg University, Sorbonne University Paris and the University of Warsaw 
-have enrolled in this adventure! They will present their results during the final symposium, together with outstanding keynote speakers.
-
-It will take place on the February 4th, 2022, and will be a fully virtual event. 
-Check out the [program](./final-program.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8) *(a link will be sent to you prior to the meeting)*.
-
 ![logo](./logo-final.png)
+
+Check out the [program](./final-program.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8) *(a link will be sent to you prior to the meeting)*.
 
 **Subject:** The topic of the course deals with the inferrence of chromatin organization from Hi-C data. 
 The students conceived, designed, developed, tested and validated a computational program to predict 
