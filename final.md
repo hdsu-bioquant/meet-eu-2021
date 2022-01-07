@@ -3,7 +3,7 @@ For the 2021/2022 edition, about 40 students from Charles University Prag, Heide
 have enrolled in this adventure! They will present their results during the final symposium, together with outstanding keynote speakers.
 
 It will take place on the February 4th, 2022, and will be a fully virtual event. 
-Check out the [program](./final-program.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8)(a link will be sent to you prior to the meeting).
+Check out the [program](./final-program.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8) *(a link will be sent to you prior to the meeting)*.
 
 ![logo](./logo-final.png)
 
