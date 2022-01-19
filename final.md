@@ -1,6 +1,6 @@
 ![logo](./logo-final.png)
 
-Check out the [program](./final-program.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8) *(a link will be sent to you prior to the meeting)*.
+Check out the [program](./final_program.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8) *(a link will be sent to you prior to the meeting)*.
 
 **Subject:** The topic of the course deals with the inferrence of chromatin organization from Hi-C data. 
 The students conceived, designed, developed, tested and validated a computational program to predict 
