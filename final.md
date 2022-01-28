@@ -1,6 +1,8 @@
 ![logo](./logo-final.png)
 
-Check out the [program](./final_program.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8) *(a link will be sent to you prior to the meeting)*.
+Check out the [program](./meeteu_final.pdf) and [register here](https://forms.gle/h11yEZ2pwzZhHYGs8) *(a link will be sent to you prior to the meeting)*.
+
+**What is this about?** as part of the 4EU+ alliance, we have initiated a network of bioinformatics master's programms involving Paris, Warsaw, Prag, Milano and Heidelberg. Meet-EU is a shared project-driven course which started in October 2021. Students will present their projects during the final meeting.
 
 **Subject:** The topic of the course deals with the inferrence of chromatin organization from Hi-C data. 
 The students conceived, designed, developed, tested and validated a computational program to predict 
